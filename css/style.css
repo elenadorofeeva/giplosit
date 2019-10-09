@@ -399,7 +399,7 @@ section {
   position: relative;
   margin-top: -25rem;
 }
-.problems-woman {
+.problems-women {
   position: absolute;
   width: 30rem;
   bottom: 0;
@@ -445,9 +445,19 @@ section {
   background: url(../img/krest.png) center no-repeat;
   background-size: 70%;
 }
+.problems-list_good {
+  border-color: #46b814;
+}
 .problems-list_good ul li:before {
   background: url(../img/Tick_Mark_Dark_icon-icons.com_69147.png) center no-repeat;
   background-size: 70%;
+}
+.material-slider {
+  padding-top: 5rem;
+}
+.material img {
+  display: block;
+  margin: 0 auto;
 }
 /*Оформление всплывающих окон*/
 .popup {
