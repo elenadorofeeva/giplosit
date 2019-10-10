@@ -455,6 +455,16 @@ section {
 .material-slider {
   padding-top: 5rem;
 }
+.material-link {
+  color: #46b814;
+  border-bottom: 1px dotted #46b814;
+}
+.material-link:hover {
+  color: #348a0f;
+}
+.material-offer {
+  margin-top: 4rem;
+}
 .material img {
   display: block;
   margin: 0 auto;
