@@ -469,6 +469,16 @@ section {
   display: block;
   margin: 0 auto;
 }
+.tour {
+  background: #ffffff url(../img/SHpaklevka-47.jpg) center no-repeat;
+  background-size: cover;
+}
+.tour-subtitle {
+  font-size: 2.2rem;
+}
+.upsell {
+  background: #286b0a;
+}
 /*Оформление всплывающих окон*/
 .popup {
   display: none;
